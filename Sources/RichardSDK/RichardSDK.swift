@@ -1,5 +1,5 @@
 public class RichardSDK {
-    init() {
+    public init() {
         print("hello king richard")
     }
 }
