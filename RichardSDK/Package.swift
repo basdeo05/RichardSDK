@@ -27,7 +27,8 @@ let package = Package(
             name: "RichardSDK",
             dependencies: [
                 .product(name: "NordicDFU", package: "IOS-DFU-Library")
-            ]
+            ],
+            resources:[.process("Resources")]
         ),
         .testTarget(
             name: "RichardSDKTests",
