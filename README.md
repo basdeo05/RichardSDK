@@ -1,2 +1,3 @@
 # RichardSDK
-testing repo for cocoapods
+
+A description of this package.
